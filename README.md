@@ -1,6 +1,8 @@
 **# Dbms_project**
 This project is an Attendance Management System implemented using a relational database model.\
-It leverages an Entity-Relationship (E-R) diagram to organize and manage data efficiently. The database includes the following entities:\
+It leverages an Entity-Relationship (E-R) diagram to organize and manage data efficiently.\ 
+
+**#The database includes the following entities:**
 
 **Students:** Stores details such as student ID, roll number, and name.\
 **Courses:** Manages course information, including course ID, title, and credits.\
