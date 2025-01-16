@@ -14,4 +14,8 @@ It leverages an Entity-Relationship (E-R) diagram to organize and manage data ef
 **Registered:** Links students with their enrolled courses.\
 **Teaches:** Connects faculty with the courses they teach.\
 **Attendance:** Tracks student attendance for specific sessions.\
-This database system aims to streamline attendance tracking, course registration, and session management while ensuring secure faculty authentication.
+This database system aims to streamline attendance tracking, course registration, and session management while ensuring secure faculty authentication.\
+
+
+
+**Please refer to E-R diagram**
